@@ -1,0 +1,18 @@
+{
+  "name": "Juragan Kos Nusantara",
+  "short_name": "Juragan Kos",
+  "description": "Game Simulasi Tycoon Manajemen Kos-Kosan 2D Pixel Art",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><rect width='16' height='16' rx='3' fill='%230f172a'/><path d='M8 2L2 7h2v7h8V7h2L8 2z' fill='%23b55239'/><rect x='6' y='9' width='4' height='5' fill='%23fbbf24'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
